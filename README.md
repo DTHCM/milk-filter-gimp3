@@ -1,6 +1,6 @@
 # milk-filter-gimp3
 
-A gimp3 port of (milk-filter-gimp)[https://github.com/AnalogFeelings/milk-filter-gimp/], rewritten in C.
+A gimp3 port of [milk-filter-gimp](https://github.com/AnalogFeelings/milk-filter-gimp/), rewritten in C.
 
 # Installation
 
