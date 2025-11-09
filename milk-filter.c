@@ -11,8 +11,8 @@ struct _Milk {
 #define MILK_TYPE (milk_get_type())
 G_DECLARE_FINAL_TYPE(Milk, milk, MILK, , GimpPlugIn)
 
-const char *authors = "AnalogFeelings, LucaSinUnaS, DTHCM";
-const char *date = "2025";
+static const char *authors = "AnalogFeelings, LucaSinUnaS, DTHCM";
+static const char *date = "2025";
 
 enum {
   STYLE_OUTSIDE,
